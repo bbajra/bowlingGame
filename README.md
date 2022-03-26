@@ -1,6 +1,6 @@
 # Bowling Game
 
-This is a 10 pin bowling game calculating strike, space, handicap score and total score.
+This is a 10 pin bowling game calculating strike, space, handicap score and total score. It implements the bowling game logic along with JUnit and Cucumber testing
 
 
 ## Files
